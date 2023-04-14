@@ -1,4 +1,4 @@
-# Probabilistic-Reasoning-AI-enhanced-car 
+# AI Enhanced Probabilistic Reasoning for Autonomous Cars 
 
 ## Introduction
 This assignment concerns probabilistic reasoning to estimate a quantity of interest using noisy observations acquired over time. We consider the example of an intelligent road vehicle equipped with a (noisy) sensor that needs to locate other vehicles in order to plan a safe path to its goal. 
@@ -45,7 +45,8 @@ We now turn our attention to driving the AutoCar making use of the tracking abil
 ```bash
 git clone
 cd Probabilistic-Reasoning-AI-enhanced-car
-cd dir
+cd dir # Go to the directory of the project
+or you can download the zip file and unzip it
 ```
 2. Conda environment: Please configure a conda environment with the permitted assignment dependencies using the commands provided below.  
 ```bash
