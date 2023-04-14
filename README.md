@@ -36,7 +36,8 @@ A3
 ├── intelligentDriver.py:  # The file where you have to implement your planning approach.
 └── util.py  # Code for utilities needed in estimator.py
 ```
-4. Simulator: The simulator is provided in the engine directory. You can run the simulator by running the following command: 
+## Simulator: 
+The simulator is provided in the engine directory. You can run the simulator by running the following command: 
 ```bash
 python3 drive.py
 ```
