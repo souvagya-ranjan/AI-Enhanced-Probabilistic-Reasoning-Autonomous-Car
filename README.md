@@ -16,6 +16,7 @@ conda env create -n assign --file environment_mac.yml # For Mac
 conda activate assign3 # Run the environment
 ```
 2. Code Package: The files you need to modify are estimator.py and intelligentDriver.py. 
+```yaml
 A3
 ├── layouts # The layouts of different environments. Prefix 'm_' implies a 'multiple goals' version of the corresponding layout.
 │   ├── small.json   
@@ -35,3 +36,4 @@ A3
 ├── estimator.py  # The file where you place your estimation (or tracking) implementation.
 ├── intelligentDriver.py  # The file where you have to implement your planning approach.
 └── util.py  # Code for utilities needed in estimator.py
+```
