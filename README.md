@@ -34,6 +34,8 @@ A3
 ├── none.py # Code for no inference.
 ├── autoDriver.py  # A baseline naive driver.
 ├── estimator.py  # The file where you place your estimation (or tracking) implementation.
+    color : "#FF0000"
 ├── intelligentDriver.py  # The file where you have to implement your planning approach.
+    color : "#FF0000"
 └── util.py  # Code for utilities needed in estimator.py
 ```
