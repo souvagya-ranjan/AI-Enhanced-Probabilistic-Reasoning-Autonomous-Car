@@ -32,9 +32,7 @@ A3
 ├── environment_mac.yml  # Conda environment file for Mac.
 ├── drive.py  # Driver code to run and visualize your implementations.
 ├── none.py # Code for no inference.
-├── estimator.py  # The file where you place your estimation (or tracking) implementation.
-    - The text you want to change the color of: <span style="color:#FF0000">The file where you place your estimation (or tracking) implementation.</span>
-├── intelligentDriver.py  # The file where you have to implement your planning approach.
-    - The text you want to change the color of: <span style="color:#FF0000">The file where you have to implement your planning approach.</span>
+├── estimator.py: <span style="color:#FF0000">  # The file where you place your estimation (or tracking) implementation.
+├── intelligentDriver.py: <span style="color:#FF0000">  # The file where you have to implement your planning approach.
 └── util.py  # Code for utilities needed in estimator.py
 ```
