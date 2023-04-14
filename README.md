@@ -46,7 +46,7 @@ We now turn our attention to driving the AutoCar making use of the tracking abil
 git clone
 cd Probabilistic-Reasoning-AI-enhanced-car
 cd dir # Go to the directory of the project
-or you can download the zip file and unzip it
+#or you can download the zip file and unzip it
 ```
 2. Conda environment: Please configure a conda environment with the permitted assignment dependencies using the commands provided below.  
 ```bash
